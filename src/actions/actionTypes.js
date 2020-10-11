@@ -1,0 +1,3 @@
+export const LOAD_PLAYERS = "LOAD_PLAYERS"
+export const LOAD_PLAYER = "LOAD_PLAYER"
+export const TOGGLE_THINGY = "TOGGLE_THINGY"
